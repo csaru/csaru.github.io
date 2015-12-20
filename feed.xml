@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science Alliance</title>
+    <description>Computational Science Alliance (CSA) создан в 2004 г. на базе Института высокопроизводительных вычислений и Информационных Систем, который в свое время был преобразован из Института Высокопроизводительных Вычислений и Баз Данных, являвшегося российским лидером в инновации современных информационных технологий на основе высокопроизводительной компьютерной техники, Учебно-научного центра по вычислительной механике Института Теплофизики Экстремальных Состояний РАН Санкт-Петербургского политехнического университета и кафедры высокопроизводительных вычислений СПбГПУ. Деятельность направлена на развитие новых технологий в использовании суперкомпьютеров в различных областях науки и техники, осуществление информационной и вычислительной поддержки государственных учреждений, исследовательских и образовательных организаций. 
+</description>
+    <link>http://csa.ru/</link>
+    <atom:link href="http://csa.ru/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Dec 2015 14:36:13 +0300</pubDate>
+    <lastBuildDate>Sun, 20 Dec 2015 14:36:13 +0300</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Отчет о поездке на NEC&#39;15</title>
+        <description>&lt;p&gt;В сентябре в Черногории состоялся симпозиум &lt;a href=&quot;http://nec2015.jinr.ru/&quot;&gt;Nuclear Electronics and Computing (NEC&#39;15)&lt;/a&gt;, в котором приняли участие множество ученых из России и зарубежа, в том числе и наша команда. Помимо выступлений с секционными и пленарными докладами в кулуарах конференции обсуждались вопросы участия в проектах BigPanda, Dirac и GEANT4, в рамках которых до конца года планируется заключить ряд соглашений о сотрудничестве.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;pic-1&quot; src=&quot;/images/nec-2015/pic-1.jpg&quot; height=&quot;270&quot; width=&quot;172&quot; /&gt;&lt;img alt=&quot;pic-2&quot; src=&quot;/images/nec-2015/pic-2.jpg&quot; height=&quot;271&quot; width=&quot;361&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Oct 2015 11:10:10 +0300</pubDate>
+        <link>http://csa.ru/2015/10/14/nec-15.html</link>
+        <guid isPermaLink="true">http://csa.ru/2015/10/14/nec-15.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Submission deadline for SCI workshop at ICCSA conference prolonged</title>
+        <description>&lt;p&gt;The submission deadline for &lt;a href=&quot;/scientific-computing-infrastructure-sci-15-workshop/&quot;&gt;Scientific Computing Infrastructure workshop &lt;/a&gt;has been prolonged till March 30, 2015.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Mar 2015 12:34:00 +0300</pubDate>
+        <link>http://csa.ru/2015/03/20/submission-deadline-for-sci-workshop-at-iccsa-conference.html</link>
+        <guid isPermaLink="true">http://csa.ru/2015/03/20/submission-deadline-for-sci-workshop-at-iccsa-conference.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
