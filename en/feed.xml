@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science Alliance</title>
+    <description></description>
+    <link>http://csa.ru/</link>
+    <atom:link href="http://csa.ru/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Dec 2015 22:04:35 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2015 22:04:35 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+	
+    
+		
+		
+	
+		
+		
+			<item>
+				<title>Submission deadline for SCI workshop at ICCSA conference prolonged</title>
+				<description>&lt;p&gt;The submission deadline for &lt;a href=&quot;/scientific-computing-infrastructure-sci-15-workshop/&quot;&gt;Scientific Computing Infrastructure workshop &lt;/a&gt;has been prolonged till March 30, 2015.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 20 Mar 2015 09:34:00 +0000</pubDate>
+				<link>http://csa.ru/2015/03/20/submission-deadline-for-sci-workshop-at-iccsa-conference.html</link>
+				<guid isPermaLink="true">http://csa.ru/2015/03/20/submission-deadline-for-sci-workshop-at-iccsa-conference.html</guid>
+				
+				
+			</item>
+			
+			
+		
+	
+  </channel>
+</rss>
