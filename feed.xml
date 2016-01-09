@@ -5,8 +5,8 @@
     <description></description>
     <link>http://csa.ru/</link>
     <atom:link href="http://csa.ru/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Jan 2016 17:25:17 +0000</pubDate>
-    <lastBuildDate>Sat, 09 Jan 2016 17:25:17 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Jan 2016 18:29:25 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2016 18:29:25 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
 	
     
@@ -15,6 +15,7 @@
 			<item>
 				<title>Отчет о поездке на NEC&#39;15</title>
 				<description>&lt;p&gt;В сентябре в Черногории состоялся симпозиум &lt;a href=&quot;http://nec2015.jinr.ru/&quot;&gt;Nuclear Electronics and Computing (NEC&#39;15)&lt;/a&gt;, в котором приняли участие множество ученых из России и зарубежа, в том числе и наша команда. Помимо выступлений с секционными и пленарными докладами в кулуарах конференции обсуждались вопросы участия в проектах BigPanda, Dirac и GEANT4, в рамках которых до конца года планируется заключить ряд соглашений о сотрудничестве.&lt;/p&gt;
+
 &lt;p&gt;&lt;img alt=&quot;pic-1&quot; src=&quot;/content/images/nec-2015/pic-1.jpg&quot; height=&quot;270&quot; width=&quot;172&quot; /&gt;&lt;img alt=&quot;pic-2&quot; src=&quot;/content/images/nec-2015/pic-2.jpg&quot; height=&quot;271&quot; width=&quot;361&quot; /&gt;&lt;/p&gt;
 </description>
 				<pubDate>Wed, 14 Oct 2015 08:10:10 +0000</pubDate>
